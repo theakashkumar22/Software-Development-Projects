@@ -122,4 +122,4 @@ This Tic-Tac-Toe game demonstrates fundamental C programming concepts including:
 
 ## License
 
-This project is open source and available under the MIT License.
+This is a educational project and is free to use and modify.
